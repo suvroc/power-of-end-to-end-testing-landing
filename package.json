@@ -1,0 +1,19 @@
+{
+  "name": "power-of-end-to-end-testing-landing-page",
+  "version": "1.0.0",
+  "description": "Power of end-to-end testing ebook landing page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"dev" : "lite-server"
+  },
+  "keywords": [
+    "landing",
+    "page"
+  ],
+  "author": "Suvroc",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}

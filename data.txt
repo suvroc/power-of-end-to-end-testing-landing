@@ -1,0 +1,71 @@
+The Power of End-to-end testing
+Selenium for .NET Developers
+
+Increase test confidence
+
+Save developers time
+
+Ensure  reliability of extisting functionality
+
+
+1. Introduction
+
+2. End-to-end testing
+	What is it and why it is important?
+
+3. Selenium UI
+	The tool for manual testers.
+	
+4. First test
+	Taking a first step into the tsting world
+	
+5. Drivers
+	How to run tests into the browser?
+	
+6. Navigation
+	Journey between the pages in testing process
+
+7. Location UI elements
+	What method is the best for you?
+	
+8. Making actions
+	How to simulate user behaviour?
+	
+9. Waits
+	Working with asynchronous page updates
+	
+10. Handling errors
+	When samothing goes wrong
+	
+11. Use case
+	Real world example
+	
+12. Page Objects pattern
+	Pattern for effective test creation
+	
+13. Test multiple cases
+	Conveinient testing for different data 
+	
+14. Creating test language with SpecFlow
+	How to include business side in test creation process?
+	
+15. Protractor for AngularJS
+	Ent-to-en testing for AngularJS
+	
+16. *Power of JavaScript
+	Work with dynamically created controls
+	
+17. Designing good tests
+	Before we start writing code
+	
+	
+Bio:
+Passionate web developer.
+
+Life enthusiast.
+
+Book description:
+
+CTA:
+
+Cover:
