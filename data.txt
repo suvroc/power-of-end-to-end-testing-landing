@@ -5,7 +5,7 @@ Increase test confidence
 
 Save developers time
 
-Ensure  reliability of extisting functionality
+Ensure reliability of extisting functionality
 
 
 1. Introduction
