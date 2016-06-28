@@ -5,7 +5,7 @@ Increase test confidence
 
 Save developers time
 
-Ensure  reliability of extisting functionality
+Ensure reliability of extisting functionality
 
 
 1. Introduction
@@ -50,7 +50,7 @@ Ensure  reliability of extisting functionality
 	How to include business side in test creation process?
 	
 15. Protractor for AngularJS
-	Ent-to-en testing for AngularJS
+	End-to-end testing for AngularJS
 	
 16. *Power of JavaScript
 	Work with dynamically created controls
