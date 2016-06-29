@@ -254,3 +254,8 @@ footer .social-link ul li a {
   text-align: center;
 
 }
+
+#testimonial .social-bar {
+  font-size: 2em;
+  color: white;
+}
