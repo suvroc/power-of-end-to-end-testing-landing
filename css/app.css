@@ -1,0 +1,33 @@
+.menu {
+	background-color: #bbbbbb;
+}
+
+.cta-btn {
+    background-color: #999999
+}
+
+header.book1-desc, 
+section#dream-box,
+#book2-desc,
+#testimonial,
+#author {
+    background-color: #bbbbbb;
+}
+
+section {
+  padding: 60px 0 60px;
+}
+
+section .title {
+  padding-bottom: 60px;
+}
+section .title h2 {
+  margin-top: 0;
+}
+
+#testimonial .opinion {
+    margin-top: 10px;
+    padding: 8px;
+}
+
+

@@ -10,3 +10,13 @@ $(document).ready(function() {
     });
  
 });
+
+function showTableOfContents() {
+    $("#shortTOC").hide();
+    $("#fullTOC").show();
+}
+
+function hideTableOfContents() {
+    $("#shortTOC").show();
+    $("#fullTOC").hide();
+}

@@ -44,9 +44,9 @@ ul li {
   list-style: none;
 }
 header {
-  background-image: url("../images/hero-bg2.jpg");
+  /*background-image: url("../images/hero-bg2.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;*/
   padding-top: 90px;
   padding-bottom: 90px;
 }
@@ -87,7 +87,7 @@ header form input[type='submit'] {
   font-weight: 300;
 }
 
-header .social-bar {
+.social-bar {
   float: none;
   margin: 0 auto;
   margin-bottom:10px;
@@ -147,22 +147,21 @@ header .social-bar {
 #feature .block .media > .pull-left {
   padding-right: 20px;
 }
-#testimonial {
-  background: url('../images/testimonial.jpg') no-repeat;
+#author {
   background-size: cover;
   padding: 100px 0;
 }
-#testimonial img {
+#author img {
   border-radius: 200px;
 	-webkit-border-radius: 200px;
 	-moz-border-radius: 200px;
 }
-#testimonial .block {
+#author .block {
   
   color: #fff;
   text-shadow: 0px 0px 10px rgba(64, 64, 64, 1);
 }
-#testimonial .block h5 {
+#author .block h5 {
   background: rgba(0, 0, 0, 0.6);
   text-align: center;
   color: #fff;
@@ -172,7 +171,7 @@ header .social-bar {
   width: 65%;
   margin: 0 auto;
 }
-#testimonial .block h5 span {
+#author .block h5 span {
   font-size: 12px;
 }
 #team {
@@ -255,7 +254,7 @@ footer .social-link ul li a {
 
 }
 
-#testimonial .social-bar {
+#author .social-bar {
   font-size: 2em;
   color: white;
 }
