@@ -163,6 +163,16 @@ p.profession {
   margin-bottom: 20px;
 }
 
+@media (max-width: 767px) { 
+  nav .navbar-brand {
+    font-size: 16px;
+  }
+
+  .cloud-list-item {
+    flex: 0 1 100%;
+  }
+}
+
 
 
 
