@@ -8,14 +8,15 @@
 
 #book1-desc, 
 section#dream-box,
-#book2-desc,
 #testimonial {
     background-color: #86bbd8;
 }
 
-#author {
+#author,
+#book2-desc {
     background-color: #33658a;
 }
+
 
 
 section {
@@ -49,6 +50,10 @@ nav .navbar-brand {
 
 .menu ul.navbar-nav > li > a {
   color: white;
+}
+
+nav .cta-btn {
+  box-shadow: 5px 0 10px #000000;
 }
 
 .cta-btn {
@@ -85,4 +90,67 @@ h2 {
   text-shadow: 0px 0px 10px #33658a;
   color: white;
 }
+
+.cloud-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+.cloud-list-item {
+  flex: 0 1 50%;
+  padding: 10px;
+}
+
+.cloud-list-item > .panel {
+  border: 2px black;
+  margin: 20px;
+  padding: 10px 15px 10px 15px;;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #33658a;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1em;
+}
+
+#dream-box .cloud-list-item > .panel {
+  background-color: #33658a;
+  color: white;
+  box-shadow: 0 0 5px #2f4858;
+}
+
+#service,
+#dream-box {
+    padding: 40px 0 60px;
+}
+
+#service .block,
+#dream-box .block {
+    text-align: center;
+}
+
+.testimonial-person {
+  min-height: 120px;
+}
+
+#testimonial div.panel {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.social-bar a {
+    margin: 0 3px 0 3px;
+}
+#book2-desc .social-bar a > span {
+    box-shadow: 0 0 3px #86bbd8;
+}
+
+.expand-btn {
+  background-color: #33658a;
+  color: white;
+}
+
+
+
 
