@@ -151,6 +151,18 @@ h2 {
   color: white;
 }
 
+.social-bar > a {
+  color: white;
+}
+
+p.profession {
+  font-style: italic;
+}
+
+.toc {
+  margin-bottom: 20px;
+}
+
 
 
 
